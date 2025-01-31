@@ -363,3 +363,4 @@ WebApi/Storage/*.jpeg
 WebApi/Storage/*.svg
 /.idea/.idea.WebApi/.idea
 .idea
+*.sqlite
